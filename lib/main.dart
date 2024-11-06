@@ -6,7 +6,7 @@ import 'bloc/data_bloc.dart';
 import 'splash_screen.dart';
 
 void main() {
-  Gemini.init(apiKey: "Api Key Required");
+  Gemini.init(apiKey: "Api Key Here");
   runApp(const MyApp());
 }
 
